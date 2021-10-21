@@ -10,7 +10,7 @@
     height:10rem;
     border-radius: 50%;
     border:3px solid black;
-    
+    background-color: white;
    
 }
 .space>div:nth-child(1)
